@@ -7,5 +7,7 @@ Yeah... this repo is actually in gitlab.  ¯\_(ツ)_/¯
 * [The original project 1dv608 that is all mess up](https://gitlab.com/LenaTevar/508project)
 
 ![](littleShop1.gif)
+
+
 ![](little2.gif)
-![](litttle 3.gif)
+
